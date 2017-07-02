@@ -21,6 +21,9 @@ sites (vhosts). The scripts are:
 * a2enconf
 * a2disconf
 
+##bobosunzhe gittest去去去
+reset 
+
 This cookbook ships with templates of these scripts for non
 Debian/Ubuntu platforms. The scripts are used in the __Definitions__
 below.
